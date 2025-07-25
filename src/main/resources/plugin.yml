@@ -1,0 +1,6 @@
+name: MellurboosInExpress
+version: '1.0'
+main: org.mellurboo.mellurboosInExpress.MellurboosInExpress
+api-version: '1.21'
+load: STARTUP
+authors: [ Mellurboo ]
