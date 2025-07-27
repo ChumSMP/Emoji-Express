@@ -1,12 +1,21 @@
+featuredEmojis:
+  smile: §e😄§r
+  grin: §e😁§r
+  joy: §e😂§r
+  heart: §c❤️§r
+  yellow_heart: §e💛§r
+  fire: §e🔥§r
+  poop: §6💩§r
+  ghost: §8👻§r
+  skull: 💀
+  scream: §e😱§r
+
 emojis:
   grinning: §e😀§r
   smiley: §e😃§r
-  smile: §e😄§r
-  grin: §e😁§r
   laughing: §e😆§r
   sweat_smile: §e😅§r
   rofl: §e🤣§r
-  joy: §e😂§r
   slightly_smiling_face: §e🙂§r
   upside_down_face: §e🙃§r
   wink: §e😉§r
@@ -44,19 +53,13 @@ emojis:
   tired_face: §e😫§r
   sob: §e😭§r
   cold_sweat: §e😰§r
-  scream: §e😱§r
   flushed: §e😳§r
   dizzy_face: §e😵§r
   exploding_head: §e🤯§r
   face_with_symbols_over_mouth: §4🤬§r
   cowboy: §e🤠§r
   clown: §c🤡§r
-  poop: §6💩§r
-  ghost: §8👻§r
-  skull: 💀
   robot: 🤖
-  heart: §c❤️§r
-  yellow_heart: §e💛§r
   green_heart: §a💚§r
   blue_heart: §1💙§r
   purple_heart: §5💜§r
@@ -65,7 +68,6 @@ emojis:
   two_hearts: §c💕§r
   sparkling_heart: §c💖§r
   heartbeat: §c💓§r
-  fire: §e🔥§r
   '100': §c💯§r
   thumbsup: §e👍§r
   thumbsdown: §e👎§r

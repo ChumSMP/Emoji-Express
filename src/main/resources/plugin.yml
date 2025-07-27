@@ -1,6 +1,16 @@
-name: MellurboosInExpress
+name: MellurboosEmojiExpress
 version: '1.0'
-main: org.mellurboo.mellurboosInExpress.MellurboosInExpress
+main: org.mellurboo.mellurboosInExpress.MellurboosEmoijiExpress
 api-version: '1.21'
 load: STARTUP
 authors: [ Mellurboo ]
+commands:
+  emojiexpress:
+    description: General Plugin Settings
+    usage: /<command> [reload|list]
+  ee:
+    description: General Plugin Settings
+    usage: /<command> [reload|list]
+permissions:
+  emojiexpress.reload:
+    default: false
